@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# macOS system files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Local environment variables
+.env
+*.env
+*.key
+*.pem
+config.json
+credentials.json
+
+# Cache / logs
+*.log
+.cache/
+logs/
+
